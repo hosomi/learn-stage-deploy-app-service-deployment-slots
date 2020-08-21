@@ -13,7 +13,7 @@
 ![資格情報２](learn-stage-deploy-app-service-deployment-slots-03.png)   
 
 
-## GitHub Action を利用する場合 
+## GitHub Actions を利用する場合 
 
 ![GitHub Action 1](learn-stage-deploy-app-service-deployment-slots-04.png)   
 
